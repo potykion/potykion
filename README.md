@@ -2,7 +2,7 @@
 
 ### О себе
 
-- Работаю в [rbcn](http://rbcn.mobi/), разрабатывая сервисы на Python/aiohttp и TypeScipt/Vue
+- Работаю в [rbcn](http://rbcn.mobi/), разрабатывая сервисы на Python/aiohttp и TypeScript/Vue
 - В свободное время пишу приложухи на Dart/Flutter и учусь рисовать
 
 ### Проекты, над которыми я работаю
