@@ -17,6 +17,8 @@
 - Flutter-разрабов - чтобы пилить приложухи
 - Python-разрабов - чтобы пилить сервы для приложух
 
+---
+
 - [Ишью, которые можно поделать](https://github.com/issues?q=is%3Aopen+is%3Aissue+author%3Apotykion+archived%3Afalse+label%3A%22help+wanted%22)
 
 ### Контакты
