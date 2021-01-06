@@ -26,4 +26,3 @@
 
 - Почтамт: potykion@gmail.com
 - Тележка: https://t.me/potykion
-- Бложек: https://potykion.github.io/
