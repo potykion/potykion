@@ -10,7 +10,6 @@
 - **yahta** - приложение для учета привычек ([закрытый код](https://github.com/potykion/yaxxxta))
 - **repka** - либа для абстракции над бд ([код](https://github.com/potykion/repka) · [задачки](https://github.com/potykion/repka/issues))
 - **[Блог из-под палки](https://potykion.github.io/)** - блог с кулсторями, заметками про разработку и экспериенс жизненный ([код](https://github.com/potykion/potykion.github.io) · [задачки](https://github.com/potykion/potykion.github.io/issues))
-- [help wanted] **what-to-wear** - приложение для учета одежды и подбора нарядов ([код(апп)](https://github.com/potykion/w2w) · [код(серв)](https://github.com/potykion/lamoda-parser) · [задачки](https://github.com/users/potykion/projects/1))
 
 ### Не откажусь от помощи
 
