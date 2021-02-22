@@ -11,15 +11,6 @@
 - **repka** - либа для абстракции над бд ([код](https://github.com/potykion/repka) · [задачки](https://github.com/potykion/repka/issues))
 - **[Блог из-под палки](https://potykion.github.io)** - блог с кулсторями, заметками про разработку и экспериенс жизненный ([код](https://github.com/potykion/potykion.github.io) · [задачки](https://github.com/potykion/potykion.github.io/issues))
 
-### Не откажусь от помощи
-
-- Дизайнеров - чтобы рисовать дизайны приложений
-- Flutter-разрабов - чтобы пилить приложухи
-
----
-
-- [Ишью, которые можно поделать](https://github.com/issues?q=is%3Aopen+is%3Aissue+author%3Apotykion+archived%3Afalse+label%3A%22help+wanted%22)
-
 ### Контакты
 
 - Почтамт: potykion@gmail.com
