@@ -1,8 +1,8 @@
-Привет, я [Никита](https://potykion.github.io/me.html)
+Привет, я [Никита](https://potykion.github.io/me)
 
 ### О себе
 
-- Работаю в [rbcn](http://rbcn.mobi/), разрабатывая сервисы на **Python/aiohttp** и **TypeScript/Vue**
+- Работаю в [rbcn](https://rbcn.mobi/), разрабатывая сервисы на **Python/aiohttp** и **TypeScript/Vue**
 - В свободное время пишу приложухи на **Dart/Flutter** и учусь рисовать
 
 ### Проекты, над которыми я работаю
