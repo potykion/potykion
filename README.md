@@ -13,5 +13,5 @@
 
 ### Контакты
 
-- Почтамт: potykion@gmail.com
-- Тележка: https://t.me/potykion
+- [Почтамт](mailto:potykion@gmail.com)
+- [Тележка](https://t.me/potykion) 
