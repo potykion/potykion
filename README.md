@@ -7,9 +7,9 @@
 
 ### Проекты, над которыми я работаю
 
-- **yahta** - приложение для учета привычек ([закрытый код](https://github.com/potykion/yaxxxta) · [закрытые задачки](https://github.com/potykion/yaxxxta/issues))
+- **yaxxxta** - приложение для учета привычек ([закрытый код](https://github.com/potykion/yaxxxta) · [закрытые задачки](https://github.com/potykion/yaxxxta/issues))
 - **repka** - либа для абстракции над бд ([код](https://github.com/potykion/repka) · [задачки](https://github.com/potykion/repka/issues))
-- **[Блог из-под палки](https://potykion.github.io)** - блог с кулсторями, заметками про разработку и экспериенс жизненный ([код](https://github.com/potykion/potykion.github.io) · [задачки](https://github.com/potykion/potykion.github.io/issues))
+- **[блог из-под палки](https://potykion.github.io)** - блог с кулсторями, заметками про разработку и экспериенс жизненный ([код](https://github.com/potykion/potykion.github.io) · [задачки](https://github.com/potykion/potykion.github.io/issues))
 
 ### Контакты
 
