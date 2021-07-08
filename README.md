@@ -17,3 +17,4 @@
 
 - [Почтамт](mailto:potykion@gmail.com)
 - [Тележка](https://t.me/potykion) 
+- [Резюмеха](https://potyk.io/dev/cv)
