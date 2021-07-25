@@ -15,6 +15,5 @@
 
 ### Контакты
 
-- [Почтамт](mailto:potykion@gmail.com)
-- [Тележка](https://t.me/potykion) 
+- [Телеграм](https://t.me/potykion) 
 - [Резюмеха](https://potyk.io/dev/cv)
