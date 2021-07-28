@@ -11,7 +11,7 @@
 
 - **[yaxxxta](https://play.google.com/store/apps/details?id=dev.palka.yaxxxta)** - приложение для учета привычек ([код](https://github.com/potykion/yaxxxta) · [задачки](https://github.com/potykion/yaxxxta/issues))
 - **[repka](https://pypi.org/project/repka/)** - простая асинхронная работа с бд ([код](https://github.com/potykion/repka) · [задачки](https://github.com/potykion/repka/issues))
-- **dnew** - апп-дневник + маркдаун-редактор ([код](https://github.com/potykion/dnew) · [задачки](https://github.com/potykion/dnew/issues))
+- **dnew** - дневник и markdown-редактор ([код](https://github.com/potykion/dnew) · [задачки](https://github.com/potykion/dnew/issues))
 - **[блог из-под палки](https://potyk.io)** - блог с кулсторями, заметками про разработку и экспериенс жизненный ([код](https://github.com/potykion/potykion.github.io) · [проект](https://github.com/potykion/potykion.github.io/projects/1))
 
 ### Контакты
