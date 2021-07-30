@@ -9,7 +9,7 @@
 ### Мои проекты
 
 
-- **[yaxxxta](https://play.google.com/store/apps/details?id=dev.palka.yaxxxta)** - простой трекер привычек ([код](https://github.com/potykion/yaxxxta) · [задачки](https://github.com/potykion/yaxxxta/issues))
+- **[yaxxxta](https://play.google.com/store/apps/details?id=dev.palka.yaxxxta)** - простой трекер привычек ([код](https://github.com/potykion/yaxxxta) · [проект](https://github.com/potykion/yaxxxta/projects/1))
 - **[repka](https://pypi.org/project/repka/)** - асинхронная работа с бд в Python ([код](https://github.com/potykion/repka) · [задачки](https://github.com/potykion/repka/issues))
 - **dnew** - дневник и markdown-редактор ([код](https://github.com/potykion/dnew) · [задачки](https://github.com/potykion/dnew/issues))
 - **[блог из-под палки](https://potyk.io)** - блог с кулсторями, заметками про разработку и экспериенс жизненный ([код](https://github.com/potykion/potykion.github.io) · [проект](https://github.com/potykion/potykion.github.io/projects/1))
