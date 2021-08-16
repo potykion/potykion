@@ -14,6 +14,7 @@
 | [yaxxxta](https://play.google.com/store/apps/details?id=dev.palka.yaxxxta)    | простой трекер привычек  | [💻](https://github.com/potykion/yaxxxta) | [📝](https://github.com/potykion/yaxxxta/projects/1)
 | dnew   | дневник и markdown-редактор   | [💻](https://github.com/potykion/dnew) | [📝](https://github.com/potykion/dnew/projects/2) 
 | [repka](https://pypi.org/project/repka/)  | асинхронная работа с бд в Python   |  [💻](https://github.com/potykion/repka) | [📝](https://github.com/potykion/repka/issues) 
+| [секретный проект] | очень секретный проект | [💻](https://github.com/cumsters/palka-market) | [📝](https://github.com/cumsters/palka-market/projects/2) 
 
 
 ### Контакты
