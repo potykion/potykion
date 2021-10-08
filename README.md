@@ -15,7 +15,6 @@
 | dnew   | дневник и markdown-редактор   | [💻](https://github.com/potykion/dnew) | [📝](https://github.com/potykion/dnew/projects/2) 
 | yt-shuffle  | Рандомайзер YouTube видео   |  [💻](https://github.com/potykion/yt-shuffle) | 
 | [repka](https://pypi.org/project/repka/)  | асинхронная работа с бд в Python   |  [💻](https://github.com/potykion/repka) | [📝](https://github.com/potykion/repka/issues) 
-| секретный проект | очень секретный проект | [💻](https://github.com/cumsters/palka-market) | [📝](https://github.com/cumsters/palka-market/projects/2) 
 
 
 ### Контакты
