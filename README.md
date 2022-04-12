@@ -1,4 +1,4 @@
 - Я Лейбович Никита
 - Что-то пишу на питоне в [rbcn](https://rbcn.mobi/) и на [апворке](https://www.upwork.com/freelancers/~0113b8d8dc0dc31519?viewMode=1)
-- Что-то почитать мое можно в [бложике](https://potyk.io/)
+- Что-то почитать мое можно в [бложике](https://potyk.io/) (в частности [резюмеху](https://potyk.io/dev/cv))
 - Что-то написать мне можно в [тг](https://t.me/potykion) или [анонимно](https://new.donatepay.ru/@potyk)
