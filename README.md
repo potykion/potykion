@@ -5,4 +5,7 @@
 
 ---
 
-[Быстрая ссылка на ишьюсы блога](https://github.com/potykion/potykion.github.io/issues)
+## Штуки
+
+- [Быстрая ссылка на ишьюсы блога](https://github.com/potykion/potykion.github.io/issues)
+- [Делилка](https://delilka.website.yandexcloud.net/): Делит число на части; удобно когда надо распределить бабос по нескольким кучкам
