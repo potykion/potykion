@@ -1,2 +1,2 @@
-Лейбович Никита • [📱 rbcn](https://rbcn.mobi/) • [📝 potyk-io](https://potyk.io/)
+Лейбович Никита • пишу в [📝potyk-io](https://potyk.io/) • работаю в [📱rbcn](https://rbcn.mobi/) 
 
