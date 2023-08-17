@@ -1,6 +1,1 @@
-делаю
-[potyk-io](http://potyk.io) • 
-[potyk-base](http://potyk.io/potyk-base/)  • 
-[skvrd](https://skovoroda.website.yandexcloud.net/) 
-
-
+http://potyk.io x https://github.com/potykion/potyk-life
