@@ -3,7 +3,7 @@ Hi, my name is potyk, I make stuff on the Internet
 Projects I'am made / working on:
 
 - [potyk.io](https://potyk.io/) - personal blog
-- [potyk.art](https://www.instagram.com/potyk.art/) - drawings
+- [instagram.com/potyk.art/](https://www.instagram.com/potyk.art/) - drawings
 - [t.me/potyk_weekly](https://t.me/potyk_weekly) - weekly life news in Telegram
 - [dev.to/potykion](https://dev.to/potykion) - weekly dev news on Dev.to
 - [potyk-awesome-python](https://github.com/potykion/potyk-awesome-python) - List of favorite Python tools 🐍
