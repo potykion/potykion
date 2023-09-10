@@ -12,4 +12,3 @@ Projects I'am made / working on:
 - [rateyourmusic.com/~potykion](https://rateyourmusic.com/~potykion) - musical reviews
 - [untappd.com/user/potykion](https://untappd.com/user/potykion) - beer reviews
 - [potyk.io/potyk-base](https://potyk.io/potyk-base/) - personal knowledge base
-- [Снекомания 🍿](https://potyk.notion.site/8007aeb3f46d4fe78ecdc36c2f9be2a8) - snack rating
