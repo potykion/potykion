@@ -12,7 +12,6 @@ Hi, my name is potyk, I make stuff on the Internet
 - [keep-board](https://github.com/potykion/keep-board) - display Google Keep notes as daily cols
 - [my-vk-likes](https://github.com/potykion/my-vk-likes) - VK liked images scrapper
 - [alfa-orders](https://github.com/potykion/alfa-orders) - lib for downloading orders from Alfa Bank admin
-- [push-random](https://github.com/potykion/push-random) - push sending service
 - [potyk-yc](https://github.com/potykion/potyk-yc) - Yandex Cloud typings and utils
 - [yaSpeechToText](https://github.com/potykion/yaSpeechToText) - convert speech in audio format to text using Yandex Cloud Speech Kit
 - [yt-shuffle](https://github.com/potykion/yt-shuffle) - shuffle YouTube playlist videos
