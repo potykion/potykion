@@ -2,8 +2,6 @@ Hi, my name is potyk, I make stuff on the Internet
 
 ## Coding projects
 
-- [potyk-awesome-python](https://github.com/potykion/potyk-awesome-python) - list of favorite Python tools
-- [dev.to/potykion](https://dev.to/potykion) - weekly dev news on Dev.to
 - [skovoroda](https://skovoroda.website.yandexcloud.net/) - onlice recipe book & cooking app
 - [potyk-lib](https://github.com/potykion/potyk-lib) - collection of utils like date utils, FP utils, collection utils and so on
 - [potyk-doc](https://github.com/potykion/potyk-doc) - utils for working with documents
@@ -16,6 +14,12 @@ Hi, my name is potyk, I make stuff on the Internet
 - [yaSpeechToText](https://github.com/potykion/yaSpeechToText) - convert speech in audio format to text using Yandex Cloud Speech Kit
 - [yt-shuffle](https://github.com/potykion/yt-shuffle) - shuffle YouTube playlist videos
 - [repka](https://github.com/potykion/repka) - async database utils
+
+## Coding articles & lists
+
+- [dev.to/potykion](https://dev.to/potykion) - weekly dev news on Dev.to
+- [potyk-awesome-python](https://github.com/potykion/potyk-awesome-python) - list of favorite Python tools
+- [potyk-awesome-frontend](https://github.com/potykion/potyk-awesome-frontend) - list of fav frontend tools (JS / CSS/ HTML)
 
 ## Open source contributions
 
