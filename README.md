@@ -3,16 +3,16 @@ Hi, my name is potyk, I make stuff on the Internet
 ## Coding projects
 
 - [skovoroda](https://skovoroda.website.yandexcloud.net/) - onlice recipe book & cooking app
+- [my-vk-likes](https://github.com/potykion/my-vk-likes) - VK liked images scrapper
 - [potyk-lib](https://github.com/potykion/potyk-lib) - collection of utils like date utils, FP utils, collection utils and so on
 - [potyk-doc](https://github.com/potykion/potyk-doc) - utils for working with documents
+- [keep-board](https://github.com/potykion/keep-board) - display Google Keep notes as daily cols
+- [yt-shuffle](https://github.com/potykion/yt-shuffle) - shuffle YouTube playlist videos
 - [docci](https://github.com/potykion/docci) - yet another document utils
 - [jinja2xlsx](https://github.com/potykion/jinja2xlsx) - convert html tables to excel 
-- [keep-board](https://github.com/potykion/keep-board) - display Google Keep notes as daily cols
-- [my-vk-likes](https://github.com/potykion/my-vk-likes) - VK liked images scrapper
-- [alfa-orders](https://github.com/potykion/alfa-orders) - lib for downloading orders from Alfa Bank admin
 - [potyk-yc](https://github.com/potykion/potyk-yc) - Yandex Cloud typings and utils
+- [alfa-orders](https://github.com/potykion/alfa-orders) - lib for downloading orders from Alfa Bank admin
 - [yaSpeechToText](https://github.com/potykion/yaSpeechToText) - convert speech in audio format to text using Yandex Cloud Speech Kit
-- [yt-shuffle](https://github.com/potykion/yt-shuffle) - shuffle YouTube playlist videos
 - [repka](https://github.com/potykion/repka) - async database utils
 
 ## Coding articles & lists
@@ -20,13 +20,13 @@ Hi, my name is potyk, I make stuff on the Internet
 - [dev.to/potykion](https://dev.to/potykion) - weekly dev news on Dev.to
 - [potyk-awesome-python](https://github.com/potykion/potyk-awesome-python) - list of favorite Python tools
 - [potyk-awesome-frontend](https://github.com/potykion/potyk-awesome-frontend) - list of fav frontend tools (JS / CSS/ HTML)
+- [potyk-awesome-ai](https://github.com/potykion/potyk-awesome-ai) - list of AI tools (e.g. for chatting, code generation, image generation)
 
 ## Open source contributions
 
 - [yc-sls-container-deploy](https://github.com/yc-actions/yc-sls-container-deploy/pull/427) - fix env parsing
 - [pydantic](https://github.com/pydantic/pydantic/pull/444) - IntEnum support
 - [typeshed](https://github.com/python/typeshed/pull/2278) - typings for jinja async functions
-
 
 ## Non-coding projects
 
