@@ -36,3 +36,8 @@ Hi, my name is potyk, I make stuff on the Internet
 - [t.me/potyk_weekly](https://t.me/potyk_weekly) - weekly life news in Telegram
 - [rateyourmusic.com/~potykion](https://rateyourmusic.com/~potykion) - musical reviews
 - [untappd.com/user/potykion](https://untappd.com/user/potykion) - beer reviews
+
+## [private projects]
+
+- potyk-life ([repo](https://github.com/potykion/potyk-life), [proj](https://github.com/users/potykion/projects/10)) - repo with my thoughts and goals
+- [nveep](https://github.com/potykion/nveep) - music service WIP
