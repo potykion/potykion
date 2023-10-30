@@ -18,9 +18,7 @@ Hi, my name is potyk, I make stuff on the Internet
 ## Coding articles & lists
 
 - [dev.to/potykion](https://dev.to/potykion) - weekly dev news on Dev.to
-- [potyk-awesome-python](https://github.com/potykion/potyk-awesome-python) - list of favorite Python tools
-- [potyk-awesome-frontend](https://github.com/potykion/potyk-awesome-frontend) - list of fav frontend tools (JS / CSS/ HTML)
-- [potyk-awesome-ai](https://github.com/potykion/potyk-awesome-ai) - list of AI tools (e.g. for chatting, code generation, image generation)
+- [potyk-awesome-lists](https://github.com/potykion/potyk-awesome-python) - lists of my favorite and interested projects (Python, JS, AI)
 
 ## Open source contributions
 
