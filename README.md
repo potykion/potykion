@@ -2,7 +2,7 @@ Hi, my name is potyk, I make stuff on the Internet
 
 ## Coding projects
 
-- [skovoroda](https://skovoroda.website.yandexcloud.net/) - onlice recipe book & cooking app
+- [skovoroda](https://skovoroda-three.vercel.app/) ([old](https://skovoroda.website.yandexcloud.net/)) - onlice recipe book & cooking app
 - [my-vk-likes](https://github.com/potykion/my-vk-likes) - VK liked images scrapper
 - [potyk-lib](https://github.com/potykion/potyk-lib) - collection of utils like date utils, FP utils, collection utils and so on
 - [potyk-doc](https://github.com/potykion/potyk-doc) - utils for working with documents
