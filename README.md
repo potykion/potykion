@@ -1,4 +1,4 @@
-Hi, my name is potyk, I make stuff on the Internet
+# [potyk.io](https://potyk.io) 
 
 ## Coding projects
 
@@ -28,7 +28,6 @@ Hi, my name is potyk, I make stuff on the Internet
 
 ## Non-coding projects
 
-- [potyk.io](https://potyk.io/) - personal blog
 - [potyk.io/potyk-base](https://potyk.io/potyk-base/) - personal knowledge base
 - [instagram.com/potyk.art/](https://www.instagram.com/potyk.art/) - drawings
 - [t.me/potyk_weekly](https://t.me/potyk_weekly) - weekly life news in Telegram
