@@ -1,4 +1,4 @@
-# [potyk.io](https://potyk.io) 
+# potyk.io/n
 
 ## Coding projects
 
