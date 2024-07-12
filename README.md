@@ -10,6 +10,7 @@
 
 ## Coding projects
 
+- [potyk.io](potyk.io) - personal blog
 - [skovoroda](https://skovoroda-three.vercel.app/) ([old](https://skovoroda.website.yandexcloud.net/)) - onlice recipe book & cooking app
 - [my-vk-likes](https://github.com/potykion/my-vk-likes) - VK liked images scrapper
 - [potyk-lib](https://github.com/potykion/potyk-lib) - collection of utils like date utils, FP utils, collection utils and so on
@@ -22,14 +23,11 @@
 - [alfa-orders](https://github.com/potykion/alfa-orders) - lib for downloading orders from Alfa Bank admin
 - [yaSpeechToText](https://github.com/potykion/yaSpeechToText) - convert speech in audio format to text using Yandex Cloud Speech Kit
 - [repka](https://github.com/potykion/repka) - async database utils
-
-## Coding articles & lists
-
-- [dev.to/potykion](https://dev.to/potykion) - weekly dev news on Dev.to
 - [potyk-awesome-lists](https://github.com/potykion/potyk-awesome-python) - lists of my favorite and interested projects (Python, JS, AI)
 
-## Non-coding projects
+## Links
 
+- [dev.to/potykion](https://dev.to/potykion) - weekly dev news on Dev.to
 - [potyk.io/potyk-base](https://potyk.io/potyk-base/) - personal knowledge base
 - [instagram.com/potyk.art/](https://www.instagram.com/potyk.art/) - drawings
 - [t.me/potyk_weekly](https://t.me/potyk_weekly) - weekly life news in Telegram
