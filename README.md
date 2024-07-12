@@ -1,4 +1,12 @@
-# ∏⌀♰ʯԞ.ʯ⌀
+# ∏⌀♰ʯԞʯ⌀η
+
+
+## Open source contributions
+
+- [yc-sls-container-deploy](https://github.com/yc-actions/yc-sls-container-deploy/pull/427) - fix env parsing
+- [pydantic](https://github.com/pydantic/pydantic/pull/444) - IntEnum support
+- [typeshed](https://github.com/python/typeshed/pull/2278) - typings for jinja async functions
+
 
 ## Coding projects
 
@@ -20,12 +28,6 @@
 - [dev.to/potykion](https://dev.to/potykion) - weekly dev news on Dev.to
 - [potyk-awesome-lists](https://github.com/potykion/potyk-awesome-python) - lists of my favorite and interested projects (Python, JS, AI)
 
-## Open source contributions
-
-- [yc-sls-container-deploy](https://github.com/yc-actions/yc-sls-container-deploy/pull/427) - fix env parsing
-- [pydantic](https://github.com/pydantic/pydantic/pull/444) - IntEnum support
-- [typeshed](https://github.com/python/typeshed/pull/2278) - typings for jinja async functions
-
 ## Non-coding projects
 
 - [potyk.io/potyk-base](https://potyk.io/potyk-base/) - personal knowledge base
@@ -33,8 +35,3 @@
 - [t.me/potyk_weekly](https://t.me/potyk_weekly) - weekly life news in Telegram
 - [rateyourmusic.com/~potykion](https://rateyourmusic.com/~potykion) - musical reviews
 - [untappd.com/user/potykion](https://untappd.com/user/potykion) - beer reviews
-
-## [private projects]
-
-- potyk-life ([repo](https://github.com/potykion/potyk-life), [proj](https://github.com/users/potykion/projects/10)) - repo with my thoughts and goals
-- [nveep](https://github.com/potykion/nveep) - music service WIP
