@@ -3,9 +3,10 @@
 
 ## Open source contributions
 
-- [yc-sls-container-deploy](https://github.com/yc-actions/yc-sls-container-deploy/pull/427) - fix env parsing
-- [pydantic](https://github.com/pydantic/pydantic/pull/444) - IntEnum support
-- [typeshed](https://github.com/python/typeshed/pull/2278) - typings for jinja async functions
+- https://github.com/yc-actions/yc-sls-container-deploy/pull/427 - fix env parsing
+- https://github.com/pydantic/pydantic/pull/444 - IntEnum support
+- https://github.com/python/typeshed/pull/2278 - typings for jinja async functions
+- https://github.com/JuanBindez/pytubefix/pull/120 - Custom OAuth token file path
 
 
 ## Coding projects
