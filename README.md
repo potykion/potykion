@@ -1,5 +1,9 @@
 # ∏⌀♰ʯԞʯ⌀η
 
+## Current projects
+
+- [potyk-food](https://github.com/potykion/potyk-food) - recipes 
+
 
 ## Open source contributions
 
