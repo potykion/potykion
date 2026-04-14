@@ -3,7 +3,8 @@
 ## Current projects
 
 - [potyk-food](https://github.com/potykion/potyk-food) - recipes
-- [src-e aka bb-cli](https://github.com/potykion/bb_cli) - mobile BitBucket src editor
+- [src-e](https://github.com/potykion/bb_cli) - mobile BitBucket src editor
+- [potyk-mu](https://github.com/potykion/potyk-mu) - music collection
 
 
 ## Open source contributions
